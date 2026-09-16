@@ -16,3 +16,6 @@ Hero video and poster are temporary atmosphere assets, NOT the student's work or
 
 Main content: src/main.jsx. Styling: src/style.css. Width is capped at 1700px, with responsive mobile layouts and reduced-motion support. No contact submissions, analytics, or personal-data storage are implemented.
 
+
+The initial background video and poster are stored locally. The poster keeps the hero readable before playback.
+
