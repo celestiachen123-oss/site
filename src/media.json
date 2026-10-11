@@ -1,0 +1,280 @@
+{
+  "home-photo": {
+    "src": "",
+    "alt": ""
+  },
+  "fieldwork-landscape": {
+    "src": "/media/fieldwork-landscape.jpg",
+    "alt": "Ziyu with a Kinnara dance practitioner in Yunnan",
+    "displaySrc": "/media/fieldwork-landscape-web.webp"
+  },
+  "wang-yanan": {
+    "src": "/media/wang-yanan.jpg",
+    "alt": "Wang Yanan adjusting a Kinnara dance mask",
+    "displaySrc": "/media/wang-yanan-web.webp"
+  },
+  "yan-nuojiao": {
+    "src": "/media/yan-nuojiao.jpg",
+    "alt": "Yan Nuojiao performing the Kinnara dance",
+    "displaySrc": "/media/yan-nuojiao-web.webp"
+  },
+  "fieldwork-interview": {
+    "src": "",
+    "alt": "",
+    "poster": ""
+  },
+  "portfolio-dance": {
+    "src": "",
+    "alt": ""
+  },
+  "portfolio-props": {
+    "src": "",
+    "alt": ""
+  },
+  "portfolio-yunnan": {
+    "src": "",
+    "alt": ""
+  },
+  "school-exhibition": {
+    "src": "/media/school-exhibition.jpg",
+    "alt": "Kinnara dance photography exhibition board at school",
+    "displaySrc": "/media/school-exhibition-web.webp"
+  },
+  "campus-leadership": {
+    "src": "",
+    "alt": ""
+  },
+  "model-un": {
+    "src": "/media/model-un.jpg",
+    "alt": ""
+  },
+  "carleton": {
+    "src": "",
+    "alt": ""
+  },
+  "stage-showreel": {
+    "src": "",
+    "alt": "",
+    "poster": ""
+  },
+  "matilda": {
+    "src": "/media/matilda.jpg",
+    "alt": "",
+    "displaySrc": "/media/matilda-web.webp"
+  },
+  "carrot": {
+    "src": "/media/carrot.jpg",
+    "alt": "",
+    "displaySrc": "/media/carrot-web.webp"
+  },
+  "honk": {
+    "src": "/media/honk.jpg",
+    "alt": "",
+    "displaySrc": "/media/honk-web.webp"
+  },
+  "cosplay-one": {
+    "src": "",
+    "alt": ""
+  },
+  "cosplay-two": {
+    "src": "",
+    "alt": ""
+  },
+  "backstage": {
+    "src": "",
+    "alt": ""
+  },
+  "bucket-list": {
+    "src": "",
+    "alt": "",
+    "poster": ""
+  },
+  "chinese-dance": {
+    "src": "",
+    "alt": ""
+  },
+  "tangyin": {
+    "src": "",
+    "alt": "",
+    "poster": ""
+  },
+  "grand-theatre": {
+    "src": "https://youtu.be/lmMldNKvtbs",
+    "alt": "",
+    "youtubeId": "lmMldNKvtbs",
+    "poster": "/media/home-whitesnake-web.webp"
+  },
+  "miaoshi": {
+    "src": "/media/miaoshi.jpg",
+    "alt": "",
+    "displaySrc": "/media/miaoshi-web.webp"
+  },
+  "community-reading": {
+    "src": "",
+    "alt": ""
+  },
+  "expo-museum": {
+    "src": "",
+    "alt": ""
+  },
+  "home-fieldwork": {
+    "src": "/media/home-fieldwork.jpg",
+    "alt": "Ziyu in Yunnan at sunset",
+    "displaySrc": "/media/home-fieldwork-web.webp"
+  },
+  "home-whitesnake": {
+    "src": "/media/home-whitesnake.png",
+    "alt": "Lady White Snake New York performance poster",
+    "displaySrc": "/media/home-whitesnake-web.webp"
+  },
+  "home-stage": {
+    "src": "/media/home-stage.jpg",
+    "alt": "Ziyu performing Chinese dance on stage",
+    "displaySrc": "/media/home-stage-web.webp"
+  },
+  "portfolio-cover": {
+    "src": "/media/portfolio-cover.jpg",
+    "alt": "Sunlight across a wooden building in Yunnan",
+    "displaySrc": "/media/portfolio-cover-web.webp"
+  },
+  "reading-one": {
+    "src": "/media/reading-one.jpg",
+    "alt": "",
+    "displaySrc": "/media/reading-one-web.webp"
+  },
+  "reading-two": {
+    "src": "/media/reading-two.jpg",
+    "alt": "",
+    "displaySrc": "/media/reading-two-web.webp"
+  },
+  "iolc": {
+    "src": "/media/iolc.jpg",
+    "alt": "",
+    "displaySrc": "/media/iolc-web.webp"
+  },
+  "union-one": {
+    "src": "/media/union-one.jpg",
+    "alt": "",
+    "displaySrc": "/media/union-one-web.webp"
+  },
+  "union-two": {
+    "src": "/media/union-two.jpg",
+    "alt": "",
+    "displaySrc": "/media/union-two-web.webp"
+  },
+  "union-three": {
+    "src": "/media/union-three.jpg",
+    "alt": "",
+    "displaySrc": "/media/union-three-web.webp"
+  },
+  "linguistics-online": {
+    "src": "/media/linguistics-online.jpg",
+    "alt": "Ziyu introducing linguistics to an online audience",
+    "displaySrc": "/media/linguistics-online-web.webp"
+  },
+  "iolc-onsite": {
+    "src": "/media/iolc-onsite.jpg",
+    "alt": "Ziyu at the IOLC China academic camp",
+    "displaySrc": "/media/iolc-onsite-web.webp"
+  },
+  "new-student-handbook": {
+    "src": "/media/new-student-handbook.png",
+    "alt": "A page from the new student handbook written by Ziyu",
+    "displaySrc": "/media/new-student-handbook-web.webp"
+  },
+  "sports-day": {
+    "src": "/media/sports-day.jpg",
+    "alt": "Ziyu coordinating student activities at the school sports day",
+    "displaySrc": "/media/sports-day-web.webp"
+  },
+  "class-welfare": {
+    "src": "/media/class-welfare.png",
+    "alt": "Class welfare representative training and classroom upkeep guidelines",
+    "displaySrc": "/media/class-welfare-web.webp"
+  },
+  "carleton-group": {
+    "src": "/media/carleton-group.jpg",
+    "alt": "",
+    "displaySrc": "/media/carleton-group-web.webp"
+  },
+  "carleton-class": {
+    "src": "/media/carleton-class.jpg",
+    "alt": "",
+    "displaySrc": "/media/carleton-class-web.webp"
+  },
+  "carleton-project": {
+    "src": "/media/carleton-project.jpg",
+    "alt": "Ziyu and her team presenting a research project at Carleton",
+    "displaySrc": "/media/carleton-project-web.webp"
+  },
+  "original-play-scene": {
+    "src": "/media/original-play-scene.jpg",
+    "alt": "",
+    "displaySrc": "/media/original-play-scene-web.webp"
+  },
+  "original-play-poster": {
+    "src": "/media/original-play-poster.jpg",
+    "alt": "",
+    "displaySrc": "/media/original-play-poster-web.webp"
+  },
+  "communicating": {
+    "src": "/media/communicating.jpg",
+    "alt": "",
+    "displaySrc": "/media/communicating-web.webp"
+  },
+  "dance-award": {
+    "src": "/media/dance-award.jpg",
+    "alt": "",
+    "displaySrc": "/media/dance-award-web.webp"
+  },
+  "john-locke": {
+    "src": "/media/john-locke.png",
+    "alt": "",
+    "displaySrc": "/media/john-locke-web.webp"
+  },
+  "brain-bee": {
+    "src": "/media/brain-bee.jpg",
+    "alt": "",
+    "displaySrc": "/media/brain-bee-web.webp"
+  },
+  "cosplay-sotheby": {
+    "src": "/media/cosplay-sotheby.jpg",
+    "alt": "",
+    "displaySrc": "/media/cosplay-sotheby-web.webp"
+  },
+  "cosplay-kaori": {
+    "src": "/media/cosplay-kaori.jpg",
+    "alt": "",
+    "displaySrc": "/media/cosplay-kaori-web.webp"
+  },
+  "cosplay-charlie": {
+    "src": "/media/cosplay-charlie.jpg",
+    "alt": "",
+    "displaySrc": "/media/cosplay-charlie-web.webp"
+  },
+  "cosplay-hutao": {
+    "src": "/media/cosplay-hutao.jpg",
+    "alt": "",
+    "displaySrc": "/media/cosplay-hutao-web.webp"
+  },
+  "stage-scenes": {
+    "src": "/media/stage-scenes.png",
+    "alt": "",
+    "displaySrc": "/media/stage-scenes-web.webp"
+  },
+  "stage-props": {
+    "src": "/media/stage-props.png",
+    "alt": "",
+    "displaySrc": "/media/stage-props-web.webp"
+  },
+  "stage-cues": {
+    "src": "/media/stage-cues.png",
+    "alt": "",
+    "displaySrc": "/media/stage-cues-web.webp"
+  },
+  "stage-calls": {
+    "src": "/media/stage-calls.png",
+    "alt": "",
+    "displaySrc": "/media/stage-calls-web.webp"
+  }
+}
